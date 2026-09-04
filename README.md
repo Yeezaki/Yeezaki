@@ -4,7 +4,7 @@
 
 # Alan · Yeezaki
 
-**Computer Science Engineer — Software & Game Systems Developer**
+**Software Engineer — Software & Game Systems Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yeezaki-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yeezaki)
 [![Status](https://img.shields.io/badge/Status-Building_%26_Learning-0969da?style=flat-square)](https://github.com/Yeezaki)
