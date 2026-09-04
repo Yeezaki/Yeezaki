@@ -15,13 +15,13 @@
 
 ## Sobre mí
 
-Ingeniero en Ciencias de la Computación, enfocado en plataformas web, arquitecturas de bases de datos y lógica de gameplay. Me gusta construir sistemas sólidos de principio a fin: desde la autenticación y el backend hasta la lógica de juego en tiempo real.
+Ingeniero en Informática, enfocado en plataformas web, arquitecturas de bases de datos y lógica. Me gusta construir sistemas sólidos de principio a fin: desde la autenticación y el backend hasta la lógica en tiempo real.
 
 ```json
 {
   "developer": "Yeezaki",
   "role": "Software & Game Systems Developer",
-  "education": "Computer Science Engineering",
+  "education": "Software Engineering",
   "focus": ["Web Platforms", "Database Architectures", "Gameplay Logic"]
 }
 ```
@@ -119,19 +119,6 @@ Siempre con algo nuevo en construcción: pequeños experimentos, herramientas in
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
----
-
-## Actividad
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yeezaki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yeezaki GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeezaki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeezaki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ---
 
