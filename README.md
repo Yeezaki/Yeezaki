@@ -4,7 +4,7 @@
 
 # Alan · Yeezaki
 
-**Software Engineer — Software & Game Systems Developer**
+**Software Engineer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Yeezaki-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yeezaki)
 [![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-0969da?style=flat-square)](https://github.com/Yeezaki)
@@ -86,7 +86,6 @@ Learning **C#** and **Unity** to build games from the ground up.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -114,7 +113,6 @@ Learning **C#** and **Unity** to build games from the ground up.
 **Game Development**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
 </p>
